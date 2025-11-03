@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Srijan Omar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [AskLMS](https://asklms.in)
+- 🔭 I’m currently working at [Zenskar](https://zenskar.com)
 
 - 🌱 I’m currently learning **Flask, PostgreSQL, React**
 
 - 👨‍💻 All of my projects are available at [https://srijan.asklms.in](https://srijan.asklms.in)
 
-- 📝 I regularly write articles on [https://medium.com/@srijanomar5840](https://medium.com/@srijanomar5840)
+- 📝 I write articles on [https://medium.com/@srijanomar5840](https://medium.com/@srijanomar5840)
 
 - 💬 Ask me about **Django, MySQL, Linux**
 
