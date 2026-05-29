@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijan Omar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working at [Zenskar](https://zenskar.com)
-
-- 🌱 I’m currently learning **Flask, PostgreSQL, React**
+- 🌱 I’m currently learning **AI, RAG, Flask, PostgreSQL, React**
 
 - 👨‍💻 All of my projects are available at [https://srijan.asklms.in](https://srijan.asklms.in)
 
